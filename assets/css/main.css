@@ -1,0 +1,39 @@
+:root{
+    --cor1: yellow;
+    --cor2: black;
+    --cor3: white;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+
+    text-decoration: none;
+}
+
+.header{
+    background: #d1cececc;
+}
+
+.cabecalho img{
+    border-radius: 50%;
+    padding: 50px;
+    width: 300px;
+}
+
+.cabecalho{
+    display: flex;
+    padding: 10px;
+}
+
+.cabecalho li a{
+    padding: 10px;
+    color:whitesmoke;
+}
+
+.cadastro{
+    margin-left: 35%;
+    
+}
