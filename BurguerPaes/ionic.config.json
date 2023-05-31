@@ -1,0 +1,7 @@
+{
+  "name": "BurguerPaes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
