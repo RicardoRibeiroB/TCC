@@ -8,8 +8,6 @@ Justificativa
 
     Redução de erros nos pedidos: Com a comunicação direta e precisa dos pedidos por meio do sistema, há uma redução significativa nos erros de comunicação que podem ocorrer ao passar pedidos verbalmente para a cozinha. Isso evita confusões e erros nos pedidos, resultando em uma experiência mais satisfatória para o cliente.
 
-    Otimização do gerenciamento de estoque: O sistema de software permite que o restaurante monitore o estoque de ingredientes e produtos em tempo real. Isso ajuda a evitar a falta de itens importantes e a reduzir o desperdício, pois o restaurante pode ajustar as compras e o uso de ingredientes com base nas demandas reais.
-
     Análise de dados e tomada de decisões informadas: Com o sistema de software, é possível obter insights valiosos por meio de relatórios e análises detalhadas. Os dados fornecidos pelo sistema, como vendas, pedidos populares e horários de pico, permitem que os proprietários de restaurantes tomem decisões informadas sobre o cardápio, preços, promoções e estratégias de crescimento.
 
     Sustentabilidade e redução de custos: Ao adotar um sistema de pedidos e cardápio digital, o restaurante pode reduzir o uso de papel, eliminando a necessidade de imprimir cardápios físicos e recibos. Além de contribuir para a sustentabilidade ambiental, isso também ajuda a reduzir custos operacionais a longo prazo.
@@ -22,8 +20,6 @@ obijetivo
 
     Facilitar a personalização dos pedidos: Com um sistema de cardápio digital, os clientes podem visualizar todas as opções disponíveis e personalizar seus pedidos de acordo com suas preferências individuais. Isso aumenta a satisfação do cliente e permite que eles criem refeições personalizadas.
 
-    Simplificar o gerenciamento de estoque: O sistema de software pode rastrear o estoque de ingredientes e produtos em tempo real, permitindo que o restaurante acompanhe as quantidades disponíveis e evite falta de estoque ou excesso de estoque. Isso ajuda a reduzir desperdícios e a otimizar as operações de compras.
-
     Fornecer análise de dados e insights: O sistema pode gerar relatórios detalhados sobre vendas, pedidos populares, horários de pico e outros dados relevantes. Isso fornece aos proprietários de restaurantes informações valiosas para tomar decisões informadas, como ajustar o cardápio, definir preços e identificar oportunidades de crescimento.
 
     
@@ -34,8 +30,6 @@ benficios
     Melhoria do atendimento ao cliente: Com um sistema de pedidos e cardápio digital, os clientes podem fazer pedidos diretamente de seus dispositivos móveis, sem a necessidade de esperar por um garçom. Isso aumenta a conveniência e agilidade do serviço, melhorando a experiência do cliente.
 
     Personalização e flexibilidade: Um sistema de software permite que os restaurantes personalizem seus cardápios digitais, exibindo fotos, descrições detalhadas e opções de personalização dos pratos. Isso permite que os clientes façam escolhas informadas e adaptem os pratos às suas preferências individuais.
-
-    Gerenciamento de estoque: Com um sistema de software, é possível monitorar o estoque de ingredientes e produtos em tempo real. Isso ajuda a evitar falta de estoque ou excesso de estoque, otimizando o processo de compras e reduzindo desperdícios.
 
     Análise de dados: Os sistemas de software podem gerar relatórios detalhados sobre vendas, pedidos populares, horários de pico e outros dados relevantes. Essas informações ajudam os proprietários de restaurantes a tomar decisões informadas, como ajustar o cardápio, definir preços e identificar oportunidades de crescimento.
 
